@@ -4,4 +4,9 @@ def karna(n):
            return
     else:
         print("Hi")
-    print("Are you ok??")
+    
+    print("Are you okay??")
+karna(4)
+
+
+
